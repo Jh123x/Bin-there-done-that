@@ -1,2 +1,2 @@
-# Bin-there-done-that
-Hack n Roll 2020
+# Bin there, done that
+This is a project for our group in HacknRoll 2020
