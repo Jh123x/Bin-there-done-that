@@ -2,6 +2,7 @@
 This is a project for our group in HacknRoll 2020
 
 A bin that catches rubbish using computer vision
+[Project Link](https://devpost.com/software/bin-there-done-that)
 
 ## Libraries:
 - OpenCV2 (For tracking the balloon)
